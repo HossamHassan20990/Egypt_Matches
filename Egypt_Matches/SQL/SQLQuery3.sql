@@ -11,5 +11,3 @@ FROM
 	[Penalty Shootouts]
 
 
-Egypt_Matches
-DESKTOP-HSBC671\SQLEXPRESS
